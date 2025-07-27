@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pixel2Predict - Digital Services</title>
+  
+  <!-- Fonts and Icons -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+  <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+</head>
+<body>
+
+  <header>
+    <div class="container nav-container">
+      <h1 class="logo">Pixel2Predict</h1>
+      <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
+      <nav>
+        <a href="#services">Services</a>
+        <a href="#pricing">Pricing</a>
+        <a href="#testimonials">Testimonials</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <button id="theme-toggle" class="theme-toggle">☀️ Light</button>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h2>Your Digital Partner</h2>
+      <p>We build modern websites, powerful apps, and deliver stunning photo & video edits.</p>
+    </div>
+  </section>
+
+  <section id="services" class="section">
+    <div class="container">
+      <h2 class="section-title">Our Services</h2>
+      <div class="grid services-grid">
+        <div class="card fade-in">
+          <h3>Website Development</h3>
+          <p>Professional, responsive, and SEO-ready websites for all industries.</p>
+        </div>
+        <div class="card fade-in">
+          <h3>App Development</h3>
+          <p>Custom mobile apps with clean UI and powerful backend integration.</p>
+        </div>
+        <div class="card fade-in">
+          <h3>Photo Editing</h3>
+          <p>Color correction, background removal, and creative enhancements.</p>
+        </div>
+        <div class="card fade-in">
+          <h3>Video Editing</h3>
+          <p>Dynamic cuts, transitions, subtitles, and cinematic effects for any video need.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="pricing" class="section">
+    <div class="container">
+      <h2 class="section-title">Pricing</h2>
+      <div class="category-buttons">
+        <button onclick="filterCategory('all')">All</button>
+        <button onclick="filterCategory('web')">Websites</button>
+        <button onclick="filterCategory('app')">Apps</button>
+        <button onclick="filterCategory('edit')">Editing</button>
+      </div>
+      <div class="grid pricing-grid">
+        <div class="card web">
+          <h3>Portfolio Website</h3>
+          <p>₹3000</p>
+          <ul><li>1 Page</li><li>Contact Form</li><li>Responsive</li></ul>
+        </div>
+        <div class="card web">
+          <h3>Business Website</h3>
+          <p>₹5000</p>
+          <ul><li>5 Pages</li><li>Hosting Support</li><li>SEO Ready</li></ul>
+        </div>
+        <div class="card web">
+          <h3>E-commerce Site</h3>
+          <p>₹12000</p>
+          <ul><li>Cart & Payment</li><li>Admin Panel</li><li>Product Listings</li></ul>
+        </div>
+        <div class="card app">
+          <h3>Basic App</h3>
+          <p>₹8000</p>
+          <ul><li>Cross-Platform</li><li>Login/Signup</li><li>Push Notifications</li></ul>
+        </div>
+        <div class="card app">
+          <h3>Advanced App</h3>
+          <p>₹20000+</p>
+          <ul><li>Database Integration</li><li>Admin Panel</li><li>AI Features</li></ul>
+        </div>
+        <div class="card edit">
+          <h3>Photo Editing</h3>
+          <p>₹100/image</p>
+          <ul><li>Color Correction</li><li>Background Removal</li><li>HD Quality</li></ul>
+        </div>
+        <div class="card edit">
+          <h3>Video Editing</h3>
+          <p>₹500/min</p>
+          <ul><li>Transitions</li><li>Subtitles</li><li>Effects</li></ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="testimonials" class="section">
+    <div class="container">
+      <h2 class="section-title">Testimonials</h2>
+      <div class="grid testimonial-grid">
+        <div class="card">
+          <p>"Super quick service. My portfolio website was live in 3 days!"</p>
+          <h4>- Ramesh, Freelancer</h4>
+        </div>
+        <div class="card">
+          <p>"Great photo editing. Professional quality and fast delivery."</p>
+          <h4>- Neha, Blogger</h4>
+        </div>
+        <div class="card">
+          <p>"Excellent video edits for my YouTube channel. Highly recommended!"</p>
+          <h4>- Arjun, YouTuber</h4>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="section">
+    <div class="container">
+      <h2 class="section-title">About Me</h2>
+      <p>I’m Suman Krishna, a passionate full-stack developer and creative editor helping businesses go digital with sleek websites, powerful apps, and striking visuals.</p>
+    </div>
+  </section>
+
+  <section id="contact" class="section">
+    <div class="container">
+      <h2 class="section-title">Contact</h2>
+      <form id="contact-form" class="form" data-form>
+        <div class="input-wrapper">
+          <input type="text" name="fullname" class="form-input" placeholder="Full name" required>
+          <input type="email" name="email" class="form-input" placeholder="Email address" required>
+        </div>
+        <textarea name="message" class="form-input" placeholder="Your Message" required></textarea>
+        <button class="form-btn" type="submit" id="send-btn">
+          <ion-icon name="paper-plane"></ion-icon>
+          <span>Send Message</span>
+        </button>
+      </form>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Pixel2Predict. All rights reserved.</p>
+  </footer>
+
+  <a href="https://wa.me/919877938126" class="whatsapp-float" target="_blank">💬 Chat on WhatsApp</a>
+
+  <script src="script.js"></script>
+</body>
+</html>
