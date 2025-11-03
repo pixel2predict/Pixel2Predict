@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman Krishna</h1>
-<h3 align="center">Full Stack Developer (MERN) | Building responsive websites & exploring new tools</h3>
+<h3 align="center">Software Engineer | AI Engineer | Building responsive websites & exploring new tools</h3>
 
 ---
 
