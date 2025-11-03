@@ -26,21 +26,21 @@ Hi, I'm <strong>Suman Krishna</strong>, a passionate <strong>Software Engineer</
 
 <!-- BADGES UNDER ABOUT ME -->
 <div>
- <a href="https://github.com/ravibhushan10" target="_blank" rel="noopener noreferrer">
-  <img src="https://api.visitorbadge.io/api/visitors?path=ravibhushan10&label=Profile%20Views&countColor=%238A2BE2" style="vertical-align: middle;" />
+ <a href="https://github.com/pixel2predict" target="_blank" rel="noopener noreferrer">
+  <img src="https://api.visitorbadge.io/api/visitors?path=pixel2predict&label=Profile%20Views&countColor=%238A2BE2" style="vertical-align: middle;" />
 </a>
 
-  <a href="https://github.com/ravibhushan10">
-    <img alt="Followers" src="https://img.shields.io/github/followers/ravibhushan10?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
+  <a href="https://github.com/pixel2predict">
+    <img alt="Followers" src="https://img.shields.io/github/followers/pixel2predict?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
   </a>
-  <a href="https://github.com/ravibhushan10?tab=repositories">
-    <img alt="Repos" src="https://badges.strrl.dev/repos/ravibhushan10?color=%238A2BE2&style=for-the-badge&label=Repos">
+  <a href="https://github.com/pixel2predict?tab=repositories">
+    <img alt="Repos" src="https://badges.strrl.dev/repos/pixel2predict?color=%238A2BE2&style=for-the-badge&label=Repos">
   </a>
-  <a href="https://github.com/ravibhushan10">
-    <img alt="Stars" src="https://img.shields.io/github/stars/ravibhushan10?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
+  <a href="https://github.com/pixel2predict">
+    <img alt="Stars" src="https://img.shields.io/github/stars/pixel2predict?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
   </a>
-  <a href="https://github.com/ravibhushan10">
-    <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/ravibhushan10?color=%238A2BE2&style=for-the-badge&label=Commits+Today">
+  <a href="https://github.com/pixel2predict">
+    <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/pixel2predict?color=%238A2BE2&style=for-the-badge&label=Commits+Today">
   </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -83,7 +83,7 @@ Hi, I'm <strong>Suman Krishna</strong>, a passionate <strong>Software Engineer</
 <!-- TECH STACK -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Tech Stack 
 
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b>🎨 Python Developer</b></summary>
 <br>
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></span><span> </span><span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></span><span> </span><span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></span><span> </span><span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></span>
 
@@ -91,7 +91,7 @@ Hi, I'm <strong>Suman Krishna</strong>, a passionate <strong>Software Engineer</
 <br>
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></span><span> </span><span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></span>
 
-<summary><b>⚙️ Backend Development</b></summary>
+<summary><b>⚙️ Database Management System</b></summary>
 <br>
 <span><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></span><span> </span><span><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></span><span> </span><span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></span>
 
@@ -111,9 +111,9 @@ Hi, I'm <strong>Suman Krishna</strong>, a passionate <strong>Software Engineer</
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravibhushan10&show_icons=true&theme=midnight-purple" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pixel2predict&show_icons=true&theme=midnight-purple" height="160"/>
   <img src="https://streak-stats.demolab.com/?user=ravibhushan10&theme=midnight-purple" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravibhushan10&layout=compact&theme=midnight-purple" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixel2predict&layout=compact&theme=midnight-purple" height="160"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -128,7 +128,7 @@ Hi, I'm <strong>Suman Krishna</strong>, a passionate <strong>Software Engineer</
 ## 📈 My GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravibhushan10&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pixel2predict&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" />
 </p>
 
 <p align="center">
@@ -147,7 +147,7 @@ Hi, I'm <strong>Suman Krishna</strong>, a passionate <strong>Software Engineer</
 
 <a href="https://github.com/ravibhushan10" target="_blank" rel="noopener noreferrer">
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ravibhushan10&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&cache=1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pixel2predict&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&cache=1" />
   </div>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
