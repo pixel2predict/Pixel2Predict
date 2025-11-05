@@ -110,7 +110,7 @@ Hi, I'm <strong>Suman Krishna</strong>, a passionate <strong>Software Engineer</
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pixel2predict&show_icons=true&theme=midnight-purple" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=pixel2predict&theme=midnight-purple" height="160"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixel2predict&layout=compact&theme=midnight-purple" height="160"/>
 </div>
 
